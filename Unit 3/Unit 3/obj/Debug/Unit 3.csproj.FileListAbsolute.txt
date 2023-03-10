@@ -1,0 +1,10 @@
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\bin\Debug\Unit 3.exe.config
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\bin\Debug\Unit 3.exe
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\bin\Debug\Unit 3.pdb
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\obj\Debug\Unit 3.csprojAssemblyReference.cache
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\obj\Debug\Unit_3.Form1.resources
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\obj\Debug\Unit_3.Properties.Resources.resources
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\obj\Debug\Unit 3.csproj.GenerateResource.cache
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\obj\Debug\Unit 3.csproj.CoreCompileInputs.cache
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\obj\Debug\Unit 3.exe
+C:\Users\Nieves\source\repos\Unit 3\Unit 3\obj\Debug\Unit 3.pdb
